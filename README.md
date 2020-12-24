@@ -1,4 +1,5 @@
-# Python_Chatroom
+# Python_Chatroom <img src="icon.ico" width=40 height=40>
+
 This is Python chatroom using socket programming and kivy. It is a minor project for 3rd semester, as well as my first group project. It is loosely based on Sentdex's [socket programming tutorial](https://pythonprogramming.net/sockets-tutorial-python-3/) and [kivy tutorial](https://pythonprogramming.net/introduction-kivy-application-python-tutorial/).<br /><br />
 Unfortunately, right now it has three server files (because I don't have too much knowledge of multithreading in python), so each have to be run separately on the server PC.
 
