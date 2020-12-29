@@ -46,7 +46,8 @@ path_where_env_is_stored\env\Scripts\Activate.ps1
 path_where_env_is_stored\env\Scripts\activate
 ```
 
-5. To install all the dependencies, run
+5. Go to the project directory <br />
+To install all the dependencies, run
 ```
 pip install -r requirements.txt
 ```
